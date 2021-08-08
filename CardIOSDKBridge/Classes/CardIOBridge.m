@@ -6,7 +6,13 @@
 //
 
 #import "CardIOBridge.h"
-#import "CardIO.h"
+#import "CardIOCreditCardInfo.h"
+#import "CardIODetectionMode.h"
+#import "CardIOView.h"
+#import "CardIOViewDelegate.h"
+#import "CardIOPaymentViewController.h"
+#import "CardIOPaymentViewControllerDelegate.h"
+#import "CardIOUtilities.h"
 
 @implementation CardIOBridge
 
