@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.summary          = 'Credit card scanning for mobile apps'
   s.social_media_url = 'https://twitter.com/cardio'
   s.author           = { 'Jesse Xu' => 'jessexu.mail@qq.com' }
-  s.source           = { :git => 'https://github.com/Jesse Xu/CardIOSDKBridge.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jessecoding/CardIOSDKBridge.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
   s.static_framework = true
   s.source_files = 'CardIOSDKBridge/Classes/**/*'
