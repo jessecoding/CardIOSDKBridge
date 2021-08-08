@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CardIOSDKBridge'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.license          = { type: 'MIT', file: 'LICENSE' }
   s.homepage         = 'https://www.card.io'
   s.summary          = 'Credit card scanning for mobile apps'
